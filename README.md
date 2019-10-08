@@ -1,4 +1,4 @@
-# Unique and Shared Pouinter
+# Unique and Shared Pointer
 ### Valentine Shidlovskiy
 
 To make it easy to run this file I have included the executables
